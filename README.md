@@ -1,19 +1,25 @@
-# 🎈 Blank app template
+# Demo: `streamlit hello` as a native multipage app
 
-A simple Streamlit app template for you to modify!
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/docs/main/python/api-examples-source/mpa-hello/Hello.py)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+This project highlights Streamlit's new multipage app functionality. 
 
-### How to run it on your own machine
+![In-use Animation](https://github.com/streamlit/hello/blob/main/mpa-hero.gif?raw=true "In-use Animation")
 
-1. Install the requirements
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## How to run this demo
+The demo can be accessed via Streamlit Community Cloud [here](https://share.streamlit.io/streamlit/docs/main/python/api-examples-source/mpa-hello/Hello.py) or locally via the following steps:
 
-2. Run the app
+```
+pip install streamlit
+streamlit hello
+```
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Learn more 
+
+- [Documentation](https://docs.streamlit.io/library/get-started/multipage-apps)
+- [Blog post](https://blog.streamlit.io/introducing-multipage-apps/)
+
+## Questions? Comments?
+
+Please ask in the [community forum](https://discuss.streamlit.io).
