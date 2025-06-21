@@ -2,4 +2,4 @@ altair
 numpy
 pandas
 pydeck
-streamlit
+streamlit./streamlit-1.9.0-py2.py3-none-any.whl
