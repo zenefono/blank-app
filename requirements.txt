@@ -1,6 +1,7 @@
+streamlit
+#./streamlit-1.9.0-py2.py3-none-any.whl
 altair
 numpy
 pandas
 pydeck
-#./streamlit-1.9.0-py2.py3-none-any.whl
-streamlit
+plotly
